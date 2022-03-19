@@ -1,0 +1,15 @@
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\bin\Debug\screenshort.exe.config
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\bin\Debug\screenshort.exe
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\bin\Debug\screenshort.pdb
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.csproj.AssemblyReference.cache
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.Form1.resources
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.Properties.Resources.resources
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.csproj.GenerateResource.cache
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.csproj.CoreCompileInputs.cache
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.exe
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.pdb
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\bin\Debug\screenshort.exe.manifest
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\bin\Debug\screenshort.application
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.exe.manifest
+C:\Users\Zahid Hasan\source\repos\screenshort\screenshort\obj\Debug\screenshort.application
